@@ -3,3 +3,5 @@ git is free software distributed under the GPL.
 git has a mutable index called stage.
 git tracks changes.
 why not change2?
+git tracks changes of files.
+i test github remote.
