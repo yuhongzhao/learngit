@@ -5,4 +5,5 @@ git tracks changes.
 why not change2?
 git tracks changes of files.
 i test github remote.
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
+
